@@ -1,6 +1,6 @@
 //Javascript Document
 
-var baseUrl = "https://stay.smallsmall.com/";
+var baseUrl = "https://dev-stay.smallsmall.com/";
 
 if(localStorage.getItem('reservation') === null){
 

@@ -1,6 +1,6 @@
 // JavaScript Document
 
-var baseUrl = "https://stay.smallsmall.com/";
+var baseUrl = "https://dev-stay.smallsmall.com/";
 
 $('.file_drag_area').on('dragover', function(){
 

@@ -30,9 +30,9 @@
 <body>
     <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-        <a target="_blank" href="https://rent.smallsmall.com/properties">Rent</a>
+        <a target="_blank" href="https://dev-rent.smallsmall.com/properties">Rent</a>
         <a href="<?php echo base_url(); ?>">Nightly stay</a>
-        <a target="_blank" href="https://buy.smallsmall.com">Buy</a>
+        <a target="_blank" href="https://dev-buy.smallsmall.com">Buy</a>
         <span class="check-in">Virtual Checkin</span>
         
         <div class="companyinfo">
@@ -53,12 +53,12 @@
 					<?php if(@$loggedIn && @$user_type == 'tenant'){ ?>
 					
 					    <li class="menu-item"><a href="<?php echo base_url('logout'); ?>">Logout</a></li>
-						<li class="menu-item item-full"><a href="https://rent.smallsmall.com/user/dashboard">My Dashboard</a></li>
+						<li class="menu-item item-full"><a href="https://dev-rent.smallsmall.com/user/dashboard">My Dashboard</a></li>
 						
 					<?php }else if(@$loggedIn && @$user_type == 'landlord'){ ?>
 					
 					    <li class="menu-item"><a href="<?php echo base_url('logout'); ?>">Logout</a></li>
-						<li class="menu-item item-full"><a href="https://rent.smallsmall.com/landlord/dashboard">My Dashboard</a></li>
+						<li class="menu-item item-full"><a href="https://dev-rent.smallsmall.com/landlord/dashboard">My Dashboard</a></li>
 						
 					<?php }else{ ?>
 					    

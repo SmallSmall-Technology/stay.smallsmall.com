@@ -1,5 +1,5 @@
 // JavaScript Document
-var baseUrl = "https://stay.smallsmall.com/";
+var baseUrl = "https://dev-stay.smallsmall.com/";
 
 $('.reserve-button').click(function(){
     
