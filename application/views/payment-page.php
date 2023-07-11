@@ -176,7 +176,7 @@
             }
             
             function updateTransaction(){
-                var baseURL = "https://dev-stay.smallsmall.com/";
+                var baseURL = "https://stay.smallsmall.com/";
                 
                 var bookingID = document.getElementById('booking_id').value;
                 

@@ -1,5 +1,5 @@
 //Javascript Document
-var baseUrl = "https://dev-stay.smallsmall.com/";
+var baseUrl = "https://stay.smallsmall.com/";
 
 $('#adminLoginForm').submit(function(e){
 

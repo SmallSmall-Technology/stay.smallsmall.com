@@ -1,5 +1,5 @@
 //Javascript 
-var baseUrl = "https://dev-stay.smallsmall.com/";
+var baseUrl = "https://stay.smallsmall.com/";
 $("#contact-form").submit(function(e){
     e.preventDefault();
     

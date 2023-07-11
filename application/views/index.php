@@ -78,7 +78,7 @@
     			        <div class="item-title">Cotel</div>
                         <div class="item-smaller-title">Affordable nightly stay</div>
                         <div class="item-note">Providing access to convenience at a pocket friendly rate. Find a room or bed space to lay your head on for a few nights and connect with likeminds</div>
-                        <a href="https://dev-stay.smallsmall.com/about-us#whycotel">
+                        <a href="https://stay.smallsmall.com/about-us#whycotel">
                         <div class="item-link">
                             Discover Cotel <span><img src="<?php //echo base_url(); ?>assets/images/discover-arrow.svg" alt="" /></span>
                         </div>
@@ -91,7 +91,7 @@
     			        <div class="item-title">StayOne</div>
                         <div class="item-smaller-title">Enjoy premium living</div>
                         <div class="item-note">We’ve anticipated your need for a complete luxury experience and we are poised to meet them when you stay at any of our uniquely curated homes</div>
-                        <a href="https://dev-stay.smallsmall.com/about-us#whystayone">
+                        <a href="https://stay.smallsmall.com/about-us#whystayone">
                         <div class="item-link">
                             Discover StayOne <span><img src="<?php //echo base_url(); ?>assets/images/discover-arrow.svg" alt="" /></span>
                         </div>
